@@ -10,4 +10,4 @@ A discord bot that gives information related to the stock of a company.
 # Features and Syntax
 
 - Input a companies ticker and the high, low, close, etc.
-- Syntax Ex:$ GOOGL and close
+- Syntax Example:$ GOOGL and close
